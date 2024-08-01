@@ -29,3 +29,5 @@ Insertion of sample data to populate the tables with initial values.
 Other configurations for the database such as settings for growth, size, and location of data files.
 
 ![ERD](https://github.com/user-attachments/assets/f28e56ff-b463-4040-8cd7-1f9ff4ad6b08)
+
+![Mapping](https://github.com/user-attachments/assets/412d78f4-e7db-49aa-a866-28d6373b9e1e)
