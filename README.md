@@ -9,7 +9,9 @@ This SQL script sets up the ITI_system database, including the necessary tables,
 
 #### 3. Data Modeling
 -Entity-Relationship Model: Defines the relationships between entities such as Courses, Exams, and Instructors.
+
 -Normalization: Ensures that tables are designed to reduce data redundancy and improve data integrity.
+
 -Constraints: Implements primary keys, foreign keys, and other constraints to enforce relationships and data integrity.
 
 
@@ -27,6 +29,7 @@ This SQL script sets up the ITI_system database, including the necessary tables,
 
 #### 8. Constraints and Indexes:
 -Constraints: Implements primary keys, foreign keys, and other constraints to ensure data integrity.
+
 -Indexes: Creates indexes to optimize query performance and enhance database efficiency.
 
 #### 9. Sample Data:
