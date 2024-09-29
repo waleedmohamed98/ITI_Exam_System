@@ -42,4 +42,5 @@ This SQL script sets up the ITI_system database, including the necessary tables,
 ![Final ERD drawio ](https://github.com/user-attachments/assets/a9778e0f-1441-4ba5-b7d8-8f679c90dca7)
 
 
-![Mapping](https://github.com/user-attachments/assets/412d78f4-e7db-49aa-a866-28d6373b9e1e)
+![pyhsical Schema](https://github.com/user-attachments/assets/fbe08cbc-8811-4160-8ea2-de16c80efcda)
+
