@@ -38,6 +38,8 @@ This SQL script sets up the ITI_system database, including the necessary tables,
 #### 10. Additional Configurations:
 -Configurations: Sets parameters for database growth, file size, and location to ensure optimal performance and scalability.
 
-![ERD](https://github.com/user-attachments/assets/f28e56ff-b463-4040-8cd7-1f9ff4ad6b08)
+
+![Final ERD drawio ](https://github.com/user-attachments/assets/a9778e0f-1441-4ba5-b7d8-8f679c90dca7)
+
 
 ![Mapping](https://github.com/user-attachments/assets/412d78f4-e7db-49aa-a866-28d6373b9e1e)
